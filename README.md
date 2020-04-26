@@ -14,4 +14,14 @@ link for complate explanation and example for __opencv inRange__ lower and upper
 
 ## test code
 
-    python color-detection.py -i test.jpg
+- image color detection
+
+```
+python color-detection.py -i test.jpg
+```
+
+- using webcam
+
+```
+python cam-color-detection
+```
