@@ -13,6 +13,5 @@ link for complate explanation and example for __opencv inRange__ lower and upper
 ![hsv-color](color-hsv-ex.png)
 
 ## test code
-`
-python color-hsv.png -i test.jpg
-`
+
+    python color-detection.py -i test.jpg
